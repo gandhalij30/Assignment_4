@@ -1,0 +1,10 @@
+TestStudent.class
+in\co\vwits\sms\service\impl\StudentServiceImpl.class
+in\co\vwits\sms\dao\impl\StudentDaoImpl.class
+in\co\vwits\sms\ApplicationConfiguration.class
+in\co\vwits\sms\dao\impl\StudentJdbcDaoImpl.class
+in\co\vwits\sms\service\StudentService.class
+in\co\vwits\sms\dao\StudentDao.class
+in\co\vwits\model\exception\StudentNotFoundException.class
+in\co\vwits\sms\model\Student.class
+in\co\vwits\sms\dao\impl\StudentJpaDaoImpl.class
